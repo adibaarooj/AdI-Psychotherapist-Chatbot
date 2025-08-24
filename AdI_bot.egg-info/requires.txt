@@ -1,0 +1,13 @@
+langchain
+openai
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+transformers
+torch
+tensorflow
+flask
+flask-cors
+python-dotenv

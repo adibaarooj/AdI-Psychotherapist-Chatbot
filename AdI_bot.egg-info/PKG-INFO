@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: AdI_bot
+Version: 0.1.0
+Author: Adiba Arooj
+Author-email: adibaarooj@gmail.com
+License-File: LICENSE
+Requires-Dist: langchain
+Requires-Dist: openai
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: nltk
+Requires-Dist: spacy
+Requires-Dist: transformers
+Requires-Dist: torch
+Requires-Dist: tensorflow
+Requires-Dist: flask
+Requires-Dist: flask-cors
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
