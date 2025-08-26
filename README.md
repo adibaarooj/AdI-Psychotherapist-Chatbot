@@ -1,5 +1,5 @@
 # AdI-Psychotherapist-Chatbot
-## Build-a-Complete-Mental-Health-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+## Build-a-Complete-Mental-Health-Chatbot-with-LLMs-LangChain-Pinecone-Flask
 
 ## How to run?
 ### STEPS:
