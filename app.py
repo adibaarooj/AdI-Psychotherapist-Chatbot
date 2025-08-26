@@ -49,14 +49,11 @@ def index():
 @app.route("/get", methods=["GET", "POST"])
 def chat():
     msg = request.form["msg"]
-
-    def generate():
-        response_stream = rag_chain.stream({"input": msg})
-        for chunk in response_stream:
-            token = chunk.get("answer", "")
-            yield token + " "   # stream word by word
-
-    return Response(generate(), mimetype="text/plain")
+    input = msg
+    print(input)
+    response = rag_chain.invoke({"input": msg})
+    print("Response : ", response["answer"])
+    return str(response["answer"])
 
 
 if __name__ == '__main__':

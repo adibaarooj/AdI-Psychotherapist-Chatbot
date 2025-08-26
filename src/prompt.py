@@ -7,6 +7,7 @@ system_prompt = (
     "answer concise."
     "Always remind the person asking the question to "
     "consult a professional for serious issues."
+    "If you sense emergency tell them to contact a helpline: 9152987821 (India)"
     "\n\n"
     "{context}"
 )
