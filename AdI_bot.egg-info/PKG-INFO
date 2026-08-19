@@ -5,7 +5,7 @@ Author: Adiba Arooj
 Author-email: adibaarooj@gmail.com
 License-File: LICENSE
 Requires-Dist: langchain
-Requires-Dist: openai
+Requires-Dist: ollama
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: scikit-learn

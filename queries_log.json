@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-08-19T16:41:06.095004",
+    "chat_id": "20260819_163640_798",
+    "user_query": "i'm not able to concentrate",
+    "bot_response": "I can sense your frustration with not being able to focus. It sounds like you're feeling stuck and struggling to make progress. To help you regain your concentration, let's try a few things. First, take a few deep breaths and try to clear your mind. Sometimes, a short break and a change of environment can be really helpful. Consider taking a short walk or doing some light exercise to get your blood flowing. You can also try breaking down your tasks into smaller, more manageable chunks, so you can focus on one thing at a time. Remember, it's okay to take things one step at a time, and don't hesitate to reach out to a licensed professional for support if you need it.",
+    "query_length": 27,
+    "response_length": 673
+  },
+  {
+    "timestamp": "2026-08-19T16:49:12.308158",
+    "chat_id": "20260819_164857_420",
+    "user_query": "i feel like crying",
+    "bot_response": "I can sense that you're feeling overwhelmed and emotional. It takes a lot of courage to acknowledge those feelings. Can you tell me a bit more about what's going on right now and what might be triggering those feelings? \n\nIn the meantime, try taking a few deep breaths and notice the sensation in your body. Allow yourself to feel whatever arises without judgment. When you're ready, we can explore some practical ways to help you cope with these emotions.\n\nConsider taking a short walk outside, engaging in some gentle stretching, or writing down your thoughts and feelings in a journal. These small actions can help calm your nervous system and provide a sense of release.\n\nRemember, it's okay to feel emotional and it's essential to be kind to yourself during these moments. If you're experiencing intense emotional pain or if these feelings persist, please reach out to a licensed professional for support.",
+    "query_length": 18,
+    "response_length": 910
+  },
+  {
+    "timestamp": "2026-08-19T16:55:41.410108",
+    "chat_id": "20260819_164857_420",
+    "user_query": "waht should i do",
+    "bot_response": "You're feeling uncertain about what to do, and that's okay. It takes courage to acknowledge when we're not sure. Let's break it down together. What specific situation or decision are you trying to make?",
+    "query_length": 16,
+    "response_length": 202
+  }
+]

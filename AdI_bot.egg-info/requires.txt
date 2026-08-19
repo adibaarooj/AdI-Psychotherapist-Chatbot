@@ -1,5 +1,5 @@
 langchain
-openai
+ollama
 pandas
 numpy
 scikit-learn
