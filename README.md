@@ -1,6 +1,10 @@
 # AdI-Psychotherapist-Chatbot
 ## Build-a-Complete-Mental-Health-Chatbot-with-LLMs-LangChain-Pinecone-Flask
 
+Rationale Behind the Name “AdI Bot”
+
+The nomenclature AdI Bot has been chosen to reflect both technological orientation and personal identity. The term “AdI” originates as a contraction of the developer’s name, Adiba, while simultaneously incorporating AI (Artificial Intelligence), the central foundation of the project. This dual representation establishes a meaningful connection between the creator and the system, offering a personalized dimension to an otherwise technical construct. By embedding individuality into the name, the project emphasizes the human-centered intent behind its design, aligning with the broader objective of leveraging artificial intelligence for empathetic, socially impactful applications in mental health support.
+
 ## How to run?
 ### STEPS:
 
